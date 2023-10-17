@@ -37,6 +37,9 @@ li a {
 li a:hover{
   background-color:#363434;
 }
+.section-two{
+  text-align: below;
+}
 
 .second-color{
   background:#5c5757;
