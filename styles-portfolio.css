@@ -37,10 +37,43 @@ li a {
 li a:hover{
   background-color:#363434;
 }
+h2 {
+  color:#efecec;
+  text-align:center;
+  text-decoration-line: underline;
+}
 p {
   border-radius: 25px;
   border:#5c5757 solid 5px;
   background-color:#62929a;
   padding: 10px;
   margin:5px;
+}
+.section-one {
+  border-radius: 25px;
+  background-color: #efecec;
+  border:#5c5757 solid 5px;
+  width:700px;
+  padding:10px;
+  margin:0;
+  float:left;
+}
+.section-two {
+  border-radius: 25px;
+  background-color: #efecec;
+  border:#5c5757 solid 5px;
+  width:700px;
+  padding:10px;
+  padding-bottom: 80px;
+  margin:0;
+  float:left;
+}
+h3 {
+  text-align: center;
+  color:#62929a
+}
+img {
+  width:700px;
+  height:auto;
+  padding:none;
 }
