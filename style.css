@@ -37,8 +37,16 @@ li a {
 li a:hover{
   background-color:#363434;
 }
+.section-one{
+  position:absolute;
+  margin-bottom: 35rem;
+}
 .section-two{
-  text-align: below;
+  padding: 10rem;
+  text-align: center;
+  border-radius: 25px;
+  border-color:#62929a;
+  border:solid #5c5757 5px;
 }
 
 .second-color{
