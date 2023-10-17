@@ -37,7 +37,6 @@ li a {
 li a:hover{
   background-color:#363434;
 }
-
 .section-two{
   padding: 10px;
   text-align: center;
@@ -45,7 +44,13 @@ li a:hover{
   border-color:#62929a;
   border:solid #5c5757 5px;
 }
-
+p{
+  border-radius: 25px;
+  border:#5c5757 solid 5px;
+  background-color:#62929a;
+  padding: 10px;
+  margin:5px;
+}
 .second-color{
   background:#5c5757;
 }
