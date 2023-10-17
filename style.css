@@ -16,6 +16,28 @@ header{
   font-family: inherit;
   font-size: inherit;
 }
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: none;
+}
+li {
+  float: right;
+}
+li a {
+  display: block;
+  color: #efecec;
+  padding: 8px;
+  background-color: #62929a;
+  text-align: center;
+  padding: 14px 16px;
+}
+li a:hover{
+  background-color:#363434;
+}
+
 .second-color{
   background:#5c5757;
 }
