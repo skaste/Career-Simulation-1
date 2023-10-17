@@ -37,13 +37,7 @@ li a {
 li a:hover{
   background-color:#363434;
 }
-.div-one{
-  margin:auto;
-  background: none;
-  border: none;
-  width: 100%;
-  height:750px;
-}
+
 .section-two{
   padding: 10px;
   text-align: center;
@@ -51,7 +45,13 @@ li a:hover{
   border-color:#62929a;
   border:solid #5c5757 5px;
 }
-
+.container{
+  margin:auto;
+  background: none;
+  border: none;
+  width: 100%;
+  height:600px;
+}
 .second-color{
   background:#5c5757;
 }
